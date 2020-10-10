@@ -1,0 +1,13 @@
+{
+  "name": "Gabenizer",
+  "image": "level5/level_image.jpg",
+  "map": "level5/map.tmx",
+  "has_light": true,
+  "soundtrack": "music/background_music_gaben.mp3",
+  "light_color": 6,
+  "light_ambient": 0.1,
+  "light_rays": 300,
+  "light_distance": 150,
+  "light_xray": false,
+  "allow_player_light": true
+}

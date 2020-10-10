@@ -1,0 +1,13 @@
+{
+  "name": "Doge Nukem",
+  "image": "level4/level_image.png",
+  "map": "level4/map.tmx",
+  "has_light": true,
+  "soundtrack": "music/background_music_doom.mp3",
+  "light_color": 2,
+  "light_ambient": 0.05,
+  "light_rays": 10,
+  "light_distance": 10,
+  "light_xray": false,
+  "allow_player_light": true
+}

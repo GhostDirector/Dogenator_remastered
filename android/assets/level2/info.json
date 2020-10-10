@@ -1,0 +1,7 @@
+{
+  "name": "House of the Doge",
+  "image": "level2/level_image.png",
+  "map": "level2/map.tmx",
+  "has_light": false,
+  "soundtrack": "music/background_music_default.mp3"
+}

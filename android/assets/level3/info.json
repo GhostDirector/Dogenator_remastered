@@ -1,0 +1,7 @@
+{
+  "name": "Fying Doges",
+  "image": "level3/level_image.png",
+  "map": "level3/map.tmx",
+  "has_light": false,
+  "soundtrack": "music/background_music_default.mp3"
+}
